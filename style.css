@@ -1,0 +1,37 @@
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    height: 80px;
+    text-align: center;
+}
+
+.home {
+    text-align: center;
+    background-color: aquamarine;
+    border: solid black 2px;
+    margin-left: 1/2;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#white {
+    background-color: white;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
